@@ -1,631 +1,640 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-record-source="?utcstart=${start}&utcend=${end}"
 #EXTINF:-1 group-title="Основные",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Основные",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Первый канал (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
 #EXTINF:-1 group-title="Основные",Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Первый канал (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
 #EXTINF:-1 group-title="Основные",Первый канал (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Основные",Первый канал (+8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 group-title="Основные",2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Основные",2x2 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",2x2 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",2x2 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Основные",Пятый канал +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Пятый канал +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Пятый канал +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Че! (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Че! (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Основные",Солнце (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Солнце (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Солнце (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Основные",Домашний +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Домашний +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Домашний +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Пятница +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Пятница +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Основные",Карусель +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Карусель +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Карусель +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",ATV Kinoman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOMAN/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOMAN/variant.m3u8
 #EXTINF:-1 group-title="Основные",Матч!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Основные",Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Основные",Мир (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Мир (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Мир (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Муз ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Основные",Муз ТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Муз ТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Муз ТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Основные",НТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",НТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Основные",Че!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Основные",Че! (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Пятница
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Основные",Пятница +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Рен ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Основные",Рен ТВ +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Рен ТВ +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Рен ТВ +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия К (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия К (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Россия К (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Спас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 group-title="Основные",Спас (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Спас (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Основные",СТС (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",СТС (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",СТС (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",СТС Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Основные",СТС Love (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",СТС Love (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Основные",Суббота (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Суббота (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Суббота (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТНТ4 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТВ3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТВ3 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТВ3 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТВ3 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТВ Центр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТВ Центр +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТВ Центр +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",ТВ Центр +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Основные",Ю (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Ю (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Ю (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Всё ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 group-title="Основные",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Основные",Звезда (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1 group-title="Основные",Звезда (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 group-title="Основные",Звезда (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Первый канал (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Первый канал (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Первый канал (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Первый канал (+8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",2x2 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",2x2 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",2x2 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Пятый канал +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Пятый канал +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Пятый канал +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Че! (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Че! (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Солнце (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Солнце (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Солнце (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Домашний +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Домашний +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Домашний +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Пятница +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Пятница +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Карусель +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Карусель +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Карусель +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ATV Kinoman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_KINOMAN/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_KINOMAN/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Матч!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Мир (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Мир (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Мир (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Муз ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Муз ТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Муз ТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Муз ТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",НТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",НТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Че!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Че! (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Пятница
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Пятница +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Рен ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Рен ТВ +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Рен ТВ +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Рен ТВ +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия К (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия К (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Россия К (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Спас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Спас (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Спас (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",СТС (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",СТС (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",СТС (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",СТС Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",СТС Love (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",СТС Love (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Суббота (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Суббота (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Суббота (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТНТ4 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТВ3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТВ3 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТВ3 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТВ3 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТВ Центр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТВ Центр +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТВ Центр +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",ТВ Центр +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_U/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Ю (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Ю (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Ю (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Всё ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Звезда (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Звезда (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (Новое)",Звезда (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://s39787.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 group-title="Республика Крым" tvg-id="pervy-krymsky",Телеканал Крым 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM1/variant.m3u8
+https://s39787.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 group-title="Республика Крым" tvg-id="krym24",Крым 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="sevastopol-24",СТВ24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="pervy-krymsky",Телеканал Крым 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM1/variant.m3u8
 #EXTINF:-1 group-title="Республика Крым" tvg-id="millet",Миллет
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MILLET/variant.m3u8
-#EXTINF:-1 group-title="Республика Крым" tvg-id="nts-sevastopol",НТС HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MILLET/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="pervy-sevastopolsky",Первый Севастопольский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
-#EXTINF:-1 group-title="Республика Крым" tvg-id="infokanal-sevastopol",СТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVIJSEVASTOPOL/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="nts-sevastopol",НТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="infokanal-sevastopol",СТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="ewpatorya24",Евпатория 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
 #EXTINF:-1 group-title="Республика Крым",ТРК-555 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SMART-TV; Linux; Tizen 4.0.0.2 AppleWebkit/605.1.15 KHTML, like Gecko SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
