@@ -7631,3 +7631,15 @@ https://s97982.cdn.ngenix.net/hls/CH_R87_TNT/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="match-tv",Матч ТВ (Биробиджан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R01_MATCHTV_BIR/variant.m3u8
+#EXTINF:-1 group-title="Хабаровск" tvg-id="6tv",6ТВ (Хабаровск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_6TV/variant.m3u8
+#EXTINF:-1 group-title="Хабаровск" tvg-id="6tv",Комсомольское время (Хабаровск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_6TVKMS/variant.m3u8
+#EXTINF:-1 group-title="Хабаровск" tvg-id="gubernia",Губерния (Хабаровск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_GUBERNYA/variant.m3u8
+#EXTINF:-1 group-title="Хабаровск" tvg-id="gubernia",Губерния (Биробиджан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R79_NTK/variant.m3u8
