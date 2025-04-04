@@ -299,9 +299,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="yu-pl7",Ю (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="atv-kinoman",ATV Kinoman
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOMAN/variant.m3u8
 #EXTINF:-1 group-title="Основные",Всё ТВ HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
@@ -6602,6 +6599,9 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 group-title="Самара" tvg-id="rossia1-pl1",Россия 1 (Самара)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Самара" tvg-id="match-tv",Матч ТВ (Самара)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
 #EXTINF:-1 group-title="Самара" tvg-id="ntv",НТВ (Самара)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
