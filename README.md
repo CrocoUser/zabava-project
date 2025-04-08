@@ -9,6 +9,6 @@ File: zabava-ef.m3u - This file contains the main federal channels, as well as t
 
 File: zabava-full.m3u - This file contains open regional streams of federal TV channels and steams of regional channels. All streams are categorized by region. EPG parameters and icons are set for almost all streams, and an archive for 3 days from the copyright holder is provided for each channel.
 
-If you have any threads that are not presented here or questions, please report them to the problem category. If no one answers you, please contact us by email provided in the playlist itself.
+If you have any threads that are not presented here or questions, please report them to the problem category.
 
 Station MSD 2025. ms-dolina.cf
