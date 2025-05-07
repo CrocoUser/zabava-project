@@ -4322,7 +4322,7 @@ https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 #EXTINF:-1 group-title="Черкесск" tvg-id="arxyz24",Архыз 24 (Карачаево-Черкесия)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_ARKHIZ241/variant.m3u8
-#EXTINF:-1 group-title="Черкесск" tvg-id="arxyz24",Архыз 24 (Карачаево-Черкесия)
+#EXTINF:-1 group-title="Черкесск",Архыз 24 light (Карачаево-Черкесия)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_ARKHIZ24LITE/variant.m3u8
 #EXTINF:-1 group-title="Элиста" tvg-id="pervy",Первый (Элиста)
@@ -7460,6 +7460,9 @@ https://s91030.cdn.ngenix.net/hls/CH_R01_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 group-title="Владивосток" tvg-id="25-region-vladik",25 регион (Владивосток)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R25_25REGION/variant.m3u8
+#EXTINF:-1 group-title="Владивосток",Даль-ТВ (Владивосток)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_DAL_TV/variant.m3u8
 #EXTINF:-1 group-title="Владивосток" tvg-id="otv-primorie",ОТВ-Приморье (Владивосток)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTV/variant.m3u8
