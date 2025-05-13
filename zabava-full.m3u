@@ -5489,9 +5489,6 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_NTAG/variant.m3u8
 #EXTINF:-1 group-title="Екатеринбург" tvg-id="rentv-pl2",РЕН ТВ (Нижний Тагил)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_NTAG/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="sts-pl2",СТС (Нижний Тагил)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_STS_NTAG/variant.m3u8
 #EXTINF:-1 group-title="Екатеринбург" tvg-id="tv3-ru-pl2",ТВ-3 (Нижний Тагил)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_TV3_NTAG/variant.m3u8
@@ -6059,9 +6056,6 @@ https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_TNT_TOB/variant.m3u8
 #EXTINF:-1 group-title="Тюмень" tvg-id="domashny-pl2",Домашний (Тюменская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R03_DOMASHNY_TUMOBL/variant.m3u8
-#EXTINF:-1 group-title="Тюмень",Тобольское время (Тобольск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
 #EXTINF:-1 group-title="Тюмень" tvg-id="tumenskoe-vremia",Тюменское время (Тюмень)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
@@ -7625,6 +7619,6 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_6TVKMS/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="gubernia",Губерния (Хабаровск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R27_GUBERNYA/variant.m3u8
-#EXTINF:-1 group-title="Хабаровск" tvg-id="gubernia",Губерния (Биробиджан)
+#EXTINF:-1 group-title="Хабаровск",НТК (Биробиджан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_NTK/variant.m3u8
