@@ -1,14 +1,10 @@
 # zabava-project
-Regional Zabava (Wink) IPTV Project
+Zabava (Wink) IPTV Project
 
-Contains ~ 2500 channels
+Это репозиторий открытых потоков федеральных и региональных телеканалов, вещающих на серверах Ростелекома. Плейлисты содержат более 2500 потоков телеканалов. В плейлистах настроен архив для всех потоков, для большинства телеканалов настроено ЕПГ и логотип. Плейлист zabava-ef содержит потоки только с главного сервера. Плейлист zabava-full содержит потоки со всех серверов, потоки каждого сервера распределены в отдельную категорию с названием региона сервера.
 
-Attention! FOR ALL USERS AND COPYRIGHT HOLDERS. ALL STREAMS PRESENTED HERE HAVE BEEN COLLECTED FROM PUBLIC SOURCES AND ARE PRESENTED SOLELY FOR EDUCATIONAL PURPOSES. ANY USER WHO DOWNLOADED ANYTHING FROM THIS REPOSITORY AFTER 24 HOURS MUST DELETE IT AND CONTACT THE COPYRIGHT HOLDERS TO OBTAIN AN OFFICIAL PERMISSION FOR ACCESS.
+Предупреждение. ПОЛЬЗОВАТЕЛЯМ И ПРАВООБЛАДАТЕЛЯМ: ЭТОТ РЕПОЗИТОРИЙ ПРЕДСТАВЛЕН ИСКЛЮЧИТЕЛЬНО В УЧЕБНЫХ ЦЕЛЯХ, ЛЮБОЙ ЕГО ПОЛЬЗОВАТЕЛЬ ПО ИСТИЧЕНИЮ 24 ЧАСОВ С МОМЕНТА ЗАГРУЗКИ ПЛЕЙЛИСТА ДОЛЖЕН УДАЛИТЬ ПЛЕЙЛИСТ И ПЕРЕЙТИ НА ОФИЦИАЛЬНЫЕ ПЛОЩАДКИ, НА КОТОРЫХ ТРАНСЛИРУЮТСЯ ДАННЫЕ ТЕЛЕКАНАЛЫ. ЭТОТ РЕПОЗИТОРИЙ НИКАК НЕ ВСЯЗАН С КОМПАНИЕЙ РОСТЕЛЕКОМ, А ТАК ЖЕ С ОНЛАЙН-КИНОТЕАТРОМ WINK.RU
 
-File: zabava-ef.m3u - This file contains the main federal channels, as well as the m3u settings line, which will be applied in zabava-full.m3u.
+По всем вопросам касающимся этого репозитория, а так же по добавлению потоков в плейлист обращаться в раздел проблем в данном репозитории.
 
-File: zabava-full.m3u - This file contains open regional streams of federal TV channels and steams of regional channels. All streams are categorized by region. EPG parameters and icons are set for almost all streams, and an archive for 3 days from the copyright holder is provided for each channel.
-
-If you have any threads that are not presented here or questions, please report them to the problem category.
-
-Station MSD 2025. ms-dolina.cf
+Станция MSD 2025. ms-dolina.cf
