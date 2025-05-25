@@ -6056,6 +6056,9 @@ https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_TNT_TOB/variant.m3u8
 #EXTINF:-1 group-title="Тюмень" tvg-id="domashny-pl2",Домашний (Тюменская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R03_DOMASHNY_TUMOBL/variant.m3u8
+#EXTINF:-1 group-title="Тюмень",Тобольское время (Тобольск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
 #EXTINF:-1 group-title="Тюмень" tvg-id="tumenskoe-vremia",Тюменское время (Тюмень)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
@@ -7184,9 +7187,6 @@ https://s34351.cdn.ngenix.net/hls/CH_R03_NVC_OTT/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="tooku",ТООКУ (Якутия)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R03_TOOKY/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="almazny-kray",Алмазный край (Якутск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s34351.cdn.ngenix.net/hls/CH_R14_ALMAZNYJKRAJHD/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="mamonttv",Мамонт (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R14_MAMONT/variant.m3u8
@@ -7562,7 +7562,7 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_FRIDAY/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="tnt-pl7",ТНТ (Хабаровск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R27_TNT/variant.m3u8
-#EXTINF:-1 group-title="Хабаровск" tvg-id="sts-love-pl7",СТС Love (Хабаровск)
+#EXTINF:-1 group-title="Хабаровск" tvg-id="sts-love-pl4",СТС Love (Хабаровск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R27_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="pervy-pl7",Первый (Биробиджан)
