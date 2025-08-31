@@ -6,7 +6,9 @@ Zabava (Wink) IPTV Project
 Предупреждение. ПОЛЬЗОВАТЕЛЯМ И ПРАВООБЛАДАТЕЛЯМ: ЭТОТ РЕПОЗИТОРИЙ ПРЕДСТАВЛЕН ИСКЛЮЧИТЕЛЬНО В УЧЕБНЫХ ЦЕЛЯХ, ЛЮБОЙ ЕГО ПОЛЬЗОВАТЕЛЬ ПО ИСТИЧЕНИЮ 24 ЧАСОВ С МОМЕНТА ЗАГРУЗКИ ПЛЕЙЛИСТА ДОЛЖЕН УДАЛИТЬ ПЛЕЙЛИСТ И ПЕРЕЙТИ НА ОФИЦИАЛЬНЫЕ ПЛОЩАДКИ, НА КОТОРЫХ ТРАНСЛИРУЮТСЯ ДАННЫЕ ТЕЛЕКАНАЛЫ. ЭТОТ РЕПОЗИТОРИЙ НИКАК НЕ ВСЯЗАН С КОМПАНИЕЙ РОСТЕЛЕКОМ, А ТАК ЖЕ С ОНЛАЙН-КИНОТЕАТРОМ WINK.RU
 
 Ссылки на плейлисты для IPTV плееров:
+
 zabava-ef: https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/heads/main/zabava-ef.m3u
+
 zabava-full: https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/heads/main/zabava-full.m3u
 
 Станция MSD 2025. ms-dolina.cf
