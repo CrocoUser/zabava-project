@@ -1,0 +1,1179 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
+#EXTINF:-1,ИНФОКАНАЛ
+https://github.com/CrocoUser/files/raw/refs/heads/main/infokanal.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="pervy",Первый
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl2",Первый (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl3",Первый (+3)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl4",Первый (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl5",Первый (+5)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl6",Первый (+6)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl8",Первый (+8)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rossia1",Россия 1
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl2",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl4",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl7",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="match-tv",Матч!
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="ntv",НТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="ntv-pl2",НТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="ntv-pl4",НТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="ntv-pl7",НТВ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru",Пятый
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru-pl2",Пятый (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru-pl4",Пятый (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru-pl7",Пятый (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="kultura",Россия К
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="kultura-pl2",Россия К (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="kultura-pl4",Россия К (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="kultura-pl7",Россия К (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rossia-24",Россия 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="karusel",Карусель
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="karusel-pl2",Карусель (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="karusel-pl4",Карусель (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="karusel-pl7",Карусель (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="otr",ОТР
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tvcentr",ТВ Центр
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tvcentr-pl2",ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tvcentr-pl4",ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tvcentr-pl7",ТВ Центр (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rentv",РЕН ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rentv-pl2",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rentv-pl4",РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rentv-pl7",РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="spas",Спас
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="spas-pl2",Спас (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="spas-pl7",Спас (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts",СТС
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts-pl2",СТС (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts-pl4",СТС (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts-pl7",СТС (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="domashny",Домашний
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="domashny-pl2",Домашний (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="domashny-pl4",Домашний (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="domashny-pl7",Домашний (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tv3-ru",ТВ3
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tv3-ru-pl2",ТВ3 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tv3-ru-pl4",ТВ3 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tv3-ru-pl7",ТВ3 (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="piatnica",Пятница
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="piatnica-pl2",Пятница (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="piatnica-pl4",Пятница (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="piatnica-pl7",Пятница (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="zvezda",Звезда
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="zvezda-pl2",Звезда (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="zvezda-pl4",Звезда (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="zvezda-pl7",Звезда (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="mir",МИР
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="mir-pl2",МИР (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="mir-pl4",МИР (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="mir-pl7",МИР (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt",ТНТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt-pl2",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt-pl4",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt-pl7",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv",МУЗ-ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl2",МУЗ-ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl4",МУЗ-ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl7",МУЗ-ТВ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="2na2",2x2
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="2na2-pl2",2x2 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="2na2-pl4",2x2 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="2na2-pl7",2x2 (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts-love",СТС Love
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts-love-pl2",СТС Love (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts-love-pl4",СТС Love (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="solnce",Солнце
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="solnce-pl2",Солнце (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="solnce-pl4",Солнце (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="solnce-pl7",Солнце (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="super",Суббота
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="super-pl2",Суббота (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="super-pl4",Суббота (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="super-pl7",Суббота (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt4",ТНТ4
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt4-pl2",ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt4-pl4",ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt4-pl7",ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="che",Че!
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="che-pl2",Че! (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="che-pl4",Че! (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="che-pl7",Че! (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="yu",Ю
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="yu-pl2",Ю (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="yu-pl4",Ю (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="yu-pl7",Ю (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Основные",Всё ТВ HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="krym24",Крым 24 HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="sevastopol-24",СТВ24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="pervy-krymsky",Телеканал Крым 1
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM1/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="millet",Миллет
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MILLET/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="pervy-sevastopolsky",Первый Севастопольский
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVIJSEVASTOPOL/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="nts-sevastopol",НТС
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="infokanal-sevastopol",СТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым" tvg-id="ewpatorya24",Евпатория 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
+#EXTINF:-1 group-title="Республика Крым",ТРК-555 HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="solnce",Солнце (Москва)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="teotv",ТЕО-ТВ (Москва)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sts-love",СТС Love (Москва)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="doverie",Москва Доверие (Москва)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="moskva-24",Москва 24 (Москва)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia",Известия Приосколья (Старый Оскол)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_OSKOL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="mir-belogoria",Мир Белогорья (Белгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="belgorod24",Белгород 24 (Белгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="brianskaya-gubernia",Брянская Губерния (Брянск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_BRGRUBER/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="briansk24",Брянск 24 (Брянск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_BRYANSK24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bars",Барс (Иваново)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_BARS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ivanovo-ot",ИОТ (Иваново)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_IOT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="nika-tv",Ника ТВ (Калуга)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rusj",Русь (Кострома)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_RUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia",Известия (Кострома)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_KST/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="seym-kursk",Сейм (Курск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_SEIM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="takt",Такт 24 (Курск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_TAKT/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Елец ТВ (Елец)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ELETS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="lipeck24",Липецк 24 (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vot-tv",ВОТ ТВ (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="lipeckoe-vremia",Липецкое время 24 (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_LVREM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rentv-istoki",Истоки (Орёл)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pervy-oblastnoy-orel",Первый Областной (Орёл)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="trk-ryazan",ТКР (Рязань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_TKP/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gorod",Город (Рязань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="novy-vek-tambov",Новый век (Тамбов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_NOVIY_VEK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pervy-tulsky",Первый Тульский (Тула)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tsn24-tula",Тула 24 (Тула)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TULA24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="panorama-tv-tver",Панорама ТВ (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tverskoy-prospekt",Тверской проспект - Регион (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="6kanal-vlad",Шестой канал (Владимир)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_6KANAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia",Известия-Владимир (Владимир)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_VLD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tk-variant",Вариант (Владимир)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gubernia-33",Губерния-33 (Владимир)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA33/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Муром ТВ (Муром)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_MUROMTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vtk-argus",ВТК 41 Аргус (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia",Известия-Воронеж (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tv-guberniya",TV Губерния (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TVGUBERNIYA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pervy-yaroslavsky",Первый Ярославский (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rybinsk40",Рыбинск-40 (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gorodskoy-yaroslavl",Городской телеканал (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sever",Север (Ненецкий АО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="stv24",СТВ 24 (Северодвинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="region29",Регион 29 (Архангельск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kaskad24",Каскад (Калининград)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="yurgan",Юрган (Республика Коми)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tv21plus",ТВ21+ (Мурманск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="arktik-tv",Арктик-ТВ (Мурманск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="novgorodskoe-obl-tv",НОТ (Великий Новгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sampo-tv",Сампо ТВ (Карелия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="lot-47",ЛенТВ 24 (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="lot-47",ЛенТВ 24 HD (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="78kanal",78 (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sankt-peterburg",Санкт-Петербург (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sankt-peterburg",Санкт-Петербург HD (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vyborg-tv",Выборг ТВ (Выборг)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_VMK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kanal-12-cherepovec",Канал 12 (Череповец)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="russky-sever",Русский Север (Вологда)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rts-abakan",РТС (Хакасия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_RTS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tv7-abakan",ТВ-7 (Абакан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tv7-abakan",ТВ-7 (Саяногорск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_TV7_SAYAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="abakan24",Абакан 24 (Абакан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R03_ABAKAN24_ABKN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bijskoetv",Бийское ТВ (Бийск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_BIYSKTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="katun-24",Катунь 24 (Алтайский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_KATUN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tolk",Толк (Барнаул)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Рубцовск ТВ (Рубцовск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_RUBCOSKTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="zabajkajkalje",Забайкалье (Забайкальский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_RTKZAB/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="buriaad",Буряад ТВ (Забайкальский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD_ZK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="aist",Аист ТВ (Иркутск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_AIST/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="aktis",Актис (Ангарск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_AKTIS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="nts-irkutsk",НТС (Иркутск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RENTVIRK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bst-bratsk",БСТ 24 (Братск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Братск (Братск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_BRATSK360/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ТСТ (Черемхово)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TST/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="anzherskoetv",Анжерское ТВ (Анжеро-Судженск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ANGERSKTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuzbas1",Кузбасс Первый (Кемерово)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_GTRK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia",Известия-Кемерово (Кемерово)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_IZVEST_KEMR/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Ленинск ТВ (Ленинск-Кузнецкий)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_PPRODVIJENIE_KEMR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="achinskoetv",АТВ (Ачинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ACHINSKOETV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="enisey-region",Енисей (Красноярск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ENISEY/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Пирамида-ТВ (Назарово)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_PYRAMID_NAZAR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tvk-krasnoyarsk",ТВК (Красноярск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TVK24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="8kanal-krasnoyarsk",Восьмой канал (Красноярский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ТВин (Зеленогорск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTK_ZEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="prima",Прима (Красноярск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="7kanal-krasnoyarsk",Седьмой канал (Красноярск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="49kanal",НСК 49 (Новосибирск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_49CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="8kanal-novosibirsk",Восьмой канал (Новосибирск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_8CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ots",ОТС (Новосибирск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia",ОТС Бердск (Бердск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTS_BERDSK_NSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rbk",РБК-Новосибирск HD (Новосибирск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_RBCHD_NSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sibir24",Сибирь 24 (Новосибирск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_SIBIR24_NSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="10kanal-novokuzneck",10 канал (Новокузнецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuzbas1",Кузбасс Первый (Кемерово)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_GTRK/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Квант (Междуреченск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_KVANT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pro-zhizn",Про жизнь (Прокопьевск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Киселёвск ТВ (Киселёвск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R03_KISEL_TV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="12-omsk",12 канал (Омск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pervy-gorodskoy-omsk",Первый Городской Телеканал (Омск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_1GORODSKOY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="omsk-tv",ОмскТВ (Омск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="prodvizhenie-pl3",Продвижение (Омск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tomskoe-vremia",Томское Время (Томск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TOMSKVREMIA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="arig-us-24",Ариг Ус (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="atv-media",АТВ (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tivikom",Тивиком (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="buriaad",Буряад ТВ (Бурятия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="astraxan24",Астрахань 24 (Астрахань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pro-astrahan",Про Астрахань (Астрахань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="arxyz24",Архыз 24 (Карачаево-Черкесия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_ARKHIZ241/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Архыз 24 light (Карачаево-Черкесия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_ARKHIZ24LITE/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="xamdan-kalm24",НТК (Элиста)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_HAMDAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gln24",GLN News (Геленджик)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_GELENDZHIK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia",Известия-Армавир (Армавир)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA-ARMAVIR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="krasnodar",Краснодар (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_KRASNODAR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sochi24",Sochi24 (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="novorosisk-tv",Новороссийск (Новороссийск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_NOVOROSSIYSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24-T/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24",Кубань 24 (Майкоп)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_MAYKOP/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rbk",РБК-Кубань (Геленджик)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_RBC-GEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rbk",РБК-Кубань (Краснодарский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_RBC-KRD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rgvk-dagestan",РГВК Дагестан (Махачкала)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_DAGESTAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="nnt",ННТ (Махачкала)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_NNT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="krasnodar",Краснодар (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R01_KRASNODAR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sochi24",Sochi24 (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24-T/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R04_MAYKOP/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rbk",РБК-Кубань (Геленджик)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R06_RBC-GEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rbk",РБК-Кубань (Краснодарский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R06_RBC-KRD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kabardino-balkaria",1 КБР (Кабардино-Балкария)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_KBR/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Батайск ТВ (Батайск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_BATAYSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="don-24",Дон 24 (Ростов-на-Дону)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="novocherkassk-tv",Новочеркасск ТВ (Новочеркасск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_NOVOCHERKASSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="novoshakhtinsk-tv",Новошахтинск ТВ (Новошахтинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_NOVOSHAHTINSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="shakhty-tv",Шахты ТВ (Шахты)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_SHAHTY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pervy-rostovsky",Первый Ростовский (Ростов-на-Дону)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_FIRST_ROSTOV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",5 Таганрог (Таганрог)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_TAGANROG5/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Волгодонский Вестник (Волгодонск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_VOLGVEST/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="atv-stavropol",АТВ-Ставрополь (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ntrk-ingushetia",НТРК Магас (Ингушетия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_INGUSHETIYA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kavkaz24",Кавказ 24 (Северо-Кавказский ФО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_KAVKAZ24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="svoyo-tv-stavropol",Своё ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="mtv-volgograd",МТВ (Волгоград)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_MTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="volgograd-1",Волгоград 1 (Волгоград)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_VOLGOGRAD1/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="volgograd-24",Волгоград 24 (Волгоград)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_VOLGOGRAD24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="osetia-iryston",Осетия-Ирыстон (Владикавказ)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_IRISTON/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="31-kanal-chelyabinsk",31 канал (Челябинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bst",БСТ (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bst",БСТ (Челябинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tv-in",ТВ-ИН (Магнитогорск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 group-title="Региональные",КТРК (Челябинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_KTRK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-chelyabinsk",ОТВ (Челябинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-chelyabinsk",ОТВ (Копейск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_KOPSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ural1",URAL1 (Челябинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vostochnyj-ekspress",Восточный экспресс (Миасс)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VOSTEXPRESS/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Злат-ТВ (Златоуст)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ZLATTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ТВ-Богданович (Богданович)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BOGDNCHTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-eburg",ОТВ (Екатеринбург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="telekon24-nt",Телекон 24 (Екатеринбург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKON24_URAL_EKT/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Вектор (Губкинский)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-eburg",ОТВ (Екатеринбург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="nts-irbit",НТС-Ирбит (Ирбит)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="4kanal-piatnica",Четвёртый канал (Екатеринбург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="my-i-gorod",Мы и Город (Красноуральск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rimtv",РИМ ТВ (Каменск-Уральский)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tagil-tv-24",Тагил-ТВ (Нижний Тагил)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="oblast45",Область 45 (Курган)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="inf24shadr",Инфо24 (Шадринск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="luch-yanao",Луч (Пуровск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LUTCH/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="muravlenko24",Муравленко 24 (Муравленко)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="impuls-sewera",Импульс Севера (Новый Уренгой)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vektor-24",Вектор 24 (Губкинский)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vremia-arktiki",Ямал 1 (ЯНАО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Лабытнанги-ТВ (ЯНАО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_LABYTNANG_TV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="mig-tv-noyabrsk",МИГ ТВ (Ноябрьск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Салехард. Онлайн (Салехард)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SALEHARD_ONLINE/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vestnik-nadyma",Вестник Надыма (Надым)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="yamal-region",Ямал (ЯНАО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ЛТК (Лысьва)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LTK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="soltv",Соль ТВ (Соликамск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SOLTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="svoyo-tv-berezniki",Своё ТВ (Березники)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vetta24",Ветта 24 (Пермский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Верхнекамье-ТВ (Березники)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_VERHTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Союз-ТВ (Чусовой)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_SOYUZ_URAL_CHUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="megapolis",Мегаполис (Нижневартовск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MEGAPOLIS/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Советский (Советский)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="surgut-24",Сургут 24 (ХМАО-Югра)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="86-surgut",С86 (Сургут)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ТНР24 (Нижневартовск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="trk-yugansk",Юганск (Нефтеюганск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="samotlor-nv",Самотлор (Нижневартовск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Седьмой Канал (Нефтеюганск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R02_OTT_TNR7/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="s1-surgut",С1 (ХМАО-Югра)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Наши города (ХМАО-Югра)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ntk-niagan",Няганский Телеканал (Нягань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NYAGANTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Пыть-Яхинформ (Пыть-Ях)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_PYT-YAHINFORM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="novoe-vremia",Новое Время (Радужный)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ugra-travel",Ugra Travel (ХМАО-Югра)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="yugra",Югра (ХМАО-Югра)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Тобольское время (Тобольск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tumenskoe-vremia",Тюменское время (Тюмень)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tvoya-tumen",TVоя Тюмень (Тюмень)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="chavash-en",НТРК (Чувашия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="utv-cheboxary",ЮТВ (Чебоксары)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="udmurtia",Удмуртия (Ижевск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="deviatka",Девятка ТВ (Киров)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pervy-gorodskoy-kirov",Первый городской канал (Киров)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="efir24-relax",Эфир (Казань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tnv",ТНВ-Татарстан (Татарстан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tatarstan24",Татарстан-24 (Татарстан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="shayantv",Шаян ТВ (Казань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tmtv",TMTV (Татарстан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="maydan",Майдан (Казань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="dzenzhinsk-tv",Дзержинск-ТВ (Дзержинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="nn-24",Нижний Новгород 24 (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Новое Телевидение Сарова (Саров)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NTS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="xuzur-tv",Хузур ТВ (Татарстан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_HUZUR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="nntv",Нижний Новгород 24 (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="volga",Волга-ТВ (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vremia-n",Волга-24 (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Камин ТВ (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuraj",Курай (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="evrasiav",Евразия (Орск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="salam",Салям (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ort-planeta-orenburg",ОРТ-Планета (Оренбург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="shayantv",Шаян ТВ (Оренбург)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="express",Экспресс (Пенза)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="nash-dom",11 канал. Экспресс (Пенза)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ktv-luch",КТВ-Луч (Сызрань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tolyatti24",Тольятти 24 (Тольятти)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gubernia-samara",Губерния (Самара)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gis-samara",Самара-ГИС (Самара)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="samara24",Самара 24 (Самара)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="saratov-24",Саратов 24 (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="shayantv",Шаян ТВ (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ntm",НТМ (Мордовия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="10-rentv",10 канал (Саранск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_10CHENAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="mordovia-24",Мордовия 24 (Саранск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ТВС (Саранск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_TVSARANSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="ulianovskaya-pravda",УлПравда ТВ (Ульяновск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="reportior-73",Репортёр 73 (Ульяновск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="metr",МЭТР (Марий Эл)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="41region",41 регион (Петропавловск-Камчатский)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R02_41REG_OTT/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Камчатка 1 (Петропавловск-Камчатский)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_KAMCHATKA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-saxalin",ОТВ (Сахалин)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s14553.cdn.ngenix.net/hls/CH_R01_OTV_SLIN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="astvus",АСТВ (Южно-Сахалинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s14553.cdn.ngenix.net/hls/CH_R65_ACTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Европа плюс Сахалин (Сахалин)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s14553.cdn.ngenix.net/hls/CH_R65_EVROPAPLUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-saxalin",ОТВ (Сахалин)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTV_SLIN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kolyma-plus",Колыма Плюс (Магадан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s20441.cdn.ngenix.net/hls/CH_R49_KOLYMA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia",Известия-Магадан (Магадан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="karibu",ТВ-Карибу (Магадан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTTKARIBU/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="saxa",НВК Саха (Якутск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R03_NVC_OTT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tooku",ТООКУ (Якутия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R03_TOOKY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="almazny-kray",Алмазный край (Мирный)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R14_ALMAZNYJKRAJHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="mamonttv",Мамонт (Якутск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R14_MAMONT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="yakutia24",Якутия 24 (Якутск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R14_YKT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuraj",Курай (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="next-tv",Next TV (Нефтекамск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tugan-tel",Туган Тел (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bashkortostan24",Башкортостан 24 (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="matur-tv",Матур ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="salam",Салям (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Сибайское ТВ (Сибай)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_SIBAYTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="uchaly-tv",Учалы ТВ (Учалы)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tamyr",Тамыр (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="shayantv",Шаян ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="1obl-blagoveschensk",Амурское Областное ТВ (Благовещенск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s84942.cdn.ngenix.net/hls/CH_R28_AOT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gorod24",Город 24 (Благовещенск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s84942.cdn.ngenix.net/hls/CH_R28_GOROD24/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Тында-ТВ (Тында)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s84942.cdn.ngenix.net/hls/CH_R28_TYNDATV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="8vladik",Восьмой канал (Владивосток)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vostok-24",Восток 24 (Владивосток)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R01_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="25-region-vladik",25 регион (Владивосток)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_25REGION/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Даль-ТВ (Дальнегорск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_DAL_TV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-primorie",ОТВ-Приморье (Приморский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="rbk",РБК (Владивосток)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="telemiks",Телемикс (Уссурийск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tuva24",Тува 24 (Кызыл)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="6tv",6ТВ (Хабаровск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_6TV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="6tv",Комсомольское время (Комсомольск-на-Амуре)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_6TVKMS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gubernia",Губерния (Хабаровск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_GUBERNYA/variant.m3u8
+#EXTINF:-1 group-title="Региональные",НТК (ЕАО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R79_NTK/variant.m3u8
