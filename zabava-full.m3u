@@ -3841,7 +3841,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="match-tv",Матч ТВ (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_MATCH_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="ntv-pl3",НТВ (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="ntv-pl4",НТВ (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="5kanal-ru-pl4",Пятый (Омск)
@@ -3853,7 +3853,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="rossia-24",Россия 24 (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="karusel-pl3",Карусель (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="karusel-pl4",Карусель (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="otr-pl2",ОТР (Омск)
@@ -3874,10 +3874,10 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_STS_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="domashny-pl4",Домашний (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tv3-ru-pl3",ТВ-3 (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="tv3-ru-pl2",ТВ-3 (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="piatnica-pl3",Пятница! (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="piatnica-pl4",Пятница! (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="zvezda-pl4",Звезда (Омск)
@@ -3886,7 +3886,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="mir-pl4",МИР (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_MIR_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tnt-pl3",ТНТ (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="tnt-pl4",ТНТ (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="muztv-pl4",МУЗ-ТВ (Омск)
@@ -3901,7 +3901,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSKOBL/variant.m3u
 #EXTINF:-1 group-title="Омск" tvg-id="match-tv",Матч ТВ (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="ntv-pl3",НТВ (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="ntv-pl4",НТВ (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="5kanal-ru-pl4",Пятый (Омская Область)
@@ -3913,7 +3913,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_OMSKOBL/variant.m3u
 #EXTINF:-1 group-title="Омск" tvg-id="rossia-24",Россия 24 (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="karusel-pl3",Карусель (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="karusel-pl4",Карусель (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="otr-pl2",ОТР (Омская Область)
@@ -3934,10 +3934,10 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_STS_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="domashny-pl4",Домашний (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_DOMASHNIY_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tv3-ru-pl3",ТВ-3 (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="tv3-ru-pl2",ТВ-3 (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="piatnica-pl3",Пятница! (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="piatnica-pl4",Пятница! (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="zvezda-pl4",Звезда (Омская Область)
@@ -3946,7 +3946,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ZVEZDA_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="mir-pl4",МИР (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_MIR_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tnt-pl3",ТНТ (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="tnt-pl4",ТНТ (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="muztv-pl4",МУЗ-ТВ (Омская Область)
