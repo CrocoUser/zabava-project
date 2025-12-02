@@ -4804,6 +4804,9 @@ https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRR/variant.m3u8
 #EXTINF:-1 group-title="Майкоп" tvg-id="kultura",Россия К (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_KRR/variant.m3u8
+#EXTINF:-1 group-title="Майкоп" tvg-id="ntv",НТВ (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_KRR/variant.m3u8
 #EXTINF:-1 group-title="Майкоп" tvg-id="karusel",Карусель (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_KRR/variant.m3u8
@@ -6094,6 +6097,9 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_RUSS1_URAL_NIZH/variant
 #EXTINF:-1 group-title="Сургут" tvg-id="tnt-pl2",ТНТ (Нижневартовск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNT_URAL_NIZH/variant.m3u8
+#EXTINF:-1 group-title="Сургут" tvg-id="ntv-pl2",НТВ (Ханты-Мансийский АО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_HM/variant.m3u8
 #EXTINF:-1 group-title="Сургут" tvg-id="tnt-pl2",ТНТ (Ханты-Мансийский АО)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_URAL_HM/variant.m3u8
