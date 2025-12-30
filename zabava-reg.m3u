@@ -823,9 +823,6 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="4kanal-piatnica",Четвёртый канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="my-i-gorod",Мы и Город (Красноуральск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="rimtv",РИМ ТВ (Каменск-Уральский)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
@@ -859,9 +856,6 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_LABYTNANG_TV/variant.m3
 #EXTINF:-1 group-title="Региональные" tvg-id="mig-tv-noyabrsk",МИГ ТВ (Ноябрьск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Салехард. Онлайн (Салехард)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SALEHARD_ONLINE/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="vestnik-nadyma",Вестник Надыма (Надым)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
@@ -907,9 +901,6 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="samotlor-nv",Самотлор (Нижневартовск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Седьмой Канал (Нефтеюганск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R02_OTT_TNR7/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="s1-surgut",С1 (ХМАО-Югра)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
@@ -1072,9 +1063,6 @@ https://s14553.cdn.ngenix.net/hls/CH_R01_OTV_SLIN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="astvus",АСТВ (Южно-Сахалинск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R65_ACTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Европа плюс Сахалин (Сахалин)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s14553.cdn.ngenix.net/hls/CH_R65_EVROPAPLUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="otv-saxalin",ОТВ (Сахалин)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTV_SLIN/variant.m3u8
@@ -1138,9 +1126,6 @@ https://s84942.cdn.ngenix.net/hls/CH_R28_AOT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="gorod24",Город 24 (Благовещенск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R28_GOROD24/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Тында-ТВ (Тында)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s84942.cdn.ngenix.net/hls/CH_R28_TYNDATV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="8vladik",Восьмой канал (Владивосток)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT8KANAL/variant.m3u8
