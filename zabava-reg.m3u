@@ -304,6 +304,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Основные",Всё ТВ HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="moskva-24",Москва 24 HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
 #EXTINF:-1 group-title="Республика Крым" tvg-id="krym24",Крым 24 HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
@@ -637,6 +640,9 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tomskoe-vremia",Томское Время (Томск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TOMSKVREMIA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sibir24",Сибирь 24 (Томск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_SIBIR24_TMSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="arig-us-24",Ариг Ус (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
@@ -664,6 +670,9 @@ https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_ARKHIZ24LITE/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="xamdan-kalm24",НТК (Элиста)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_HAMDAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Калмыкия-24 (Республика Калмыкия)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_KALMYKIYA24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="gln24",GLN News (Геленджик)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_GELENDZHIK/variant.m3u8
@@ -676,9 +685,6 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_KRASNODAR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="sochi24",Sochi24 (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="novorosisk-tv",Новороссийск (Новороссийск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_NOVOROSSIYSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="kuban-24",Кубань 24 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24-T/variant.m3u8
@@ -772,6 +778,9 @@ https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_VOLGOGRAD24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="osetia-iryston",Осетия-Ирыстон (Владикавказ)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_IRISTON/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="insit-tv",Инсит-ТВ (Копейск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_INSITTV_KOPSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="31-kanal-chelyabinsk",31 канал (Челябинск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
@@ -823,6 +832,9 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="4kanal-piatnica",Четвёртый канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="my-i-gorod",Мы и Город (Красноуральск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="rimtv",РИМ ТВ (Каменск-Уральский)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
