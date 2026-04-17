@@ -13,4 +13,4 @@ zabava-full: https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/hea
 
 zabava-reg: https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/heads/main/zabava-reg.m3u
 
-Станция MSD 2025. ms-dolina.cf
+Станция MSD 2026. ms-dolina.cf
