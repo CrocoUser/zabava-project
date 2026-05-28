@@ -838,6 +838,9 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.
 #EXTINF:-1 group-title="Региональные" tvg-id="tagil-tv-24",Тагил-ТВ (Нижний Тагил)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Вектор (Губкинский)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="oblast45",Область 45 (Курган)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
@@ -886,6 +889,9 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_VERHTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Союз-ТВ (Чусовой)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_SOYUZ_URAL_CHUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ЛТК (Лысьва)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LTK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="megapolis",Мегаполис (Нижневартовск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MEGAPOLIS/variant.m3u8
